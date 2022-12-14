@@ -1,0 +1,116 @@
+{
+    "maps": [
+    {
+    "systemName": "7000",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Angar",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Arena_3lvl",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "ArenaRing",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Arena_well",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Bit_map",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Cache",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Faccility",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Inferno",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "LegoTurnamed",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "ShipContayner",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Sniper_night",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Sniper",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "TF3_Arena_map",
+    "gameMode": [
+    "DM",
+    "TDM"
+    ]
+    },
+    {
+    "systemName": "Zombi_2",
+    "gameMode": [
+    "DM",
+    "ZM"
+    ]
+    },
+    {
+    "systemName": "Zombi",
+    "gameMode": [
+    "DM",
+    "ZM"
+    ]
+    }
+    ]
+    }
